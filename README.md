@@ -1,2 +1,22 @@
-# Spice-Hub-Demo-Site-
-A modern demo website showcasing Spice Hub by Chef Bojang in Kololi, built for presentation and portfolio purposes
+# Spice Hub Demo Site
+
+A demo website for **Spice Hub — by Chef Bojang, Kololi**, designed to highlight the restaurant’s brand, menu, and atmosphere in a modern, responsive format.
+
+## 🚀 Features
+- Responsive design for desktop and mobile
+- Showcase of Spice Hub’s menu and location
+- Clean, minimal layout for easy navigation
+- Built with [insert tech stack: e.g., HTML, CSS, JavaScript]
+
+## 📂 Project Structure
+- `/index.html` – Main landing page
+- `/assets/` – Images, icons, and styling resources
+- `/css/` – Stylesheets
+- `/js/` – Scripts
+
+## 🛠️ Setup
+Clone the repository and open `index.html` in your browser:
+
+```bash
+git clone https://github.com/your-username/spice-hub-demo.git
+cd spice-hub-demo
