@@ -14,9 +14,3 @@ A demo website for **Spice Hub — by Chef Bojang, Kololi**, designed to highlig
 - `/css/` – Stylesheets
 - `/js/` – Scripts
 
-## 🛠️ Setup
-Clone the repository and open `index.html` in your browser:
-
-```bash
-git clone https://github.com/your-username/spice-hub-demo.git
-cd spice-hub-demo
